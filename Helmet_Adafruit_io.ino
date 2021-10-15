@@ -3,7 +3,6 @@
 #include <SoftwareSerial.h>
 #include <Adafruit_MQTT.h>
 #include <Adafruit_MQTT_Client.h>
-#include <ESP8266WiFi.h>
 
 TinyGPSPlus gps;  // The TinyGPS++ object
 SoftwareSerial gpSerial(D4, D5); //  serial connection to the GPS device //(Rx,Tx)

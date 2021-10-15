@@ -1,8 +1,8 @@
 # Smart-Helmet-using-NodeMCU
 
 - NodeMCU 
-- MPU6050
-- GPS Module
+- MPU6050(Accelerometer)
+- GPS Module(NEO-6M))
 - Adafruit IO feed connected to both Node MCU and IFTTT
 - IFTTT- Google assistant (Trigger) + Adafruit IO Feed  & Webhooks + SMS
 
